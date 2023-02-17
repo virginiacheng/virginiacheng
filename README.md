@@ -12,7 +12,8 @@ Full-Stack Software Engineer
 🌱 I’m currently learning
 </h3>
 
-- Coffeescript
+![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=CoffeeScript&logoColor=white)
+
 
 </br>
 
@@ -40,6 +41,17 @@ Full-Stack Software Engineer
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+</br>
+
+<h3>
+🏅 Proudest Accomplishment
+</h3>
+<a href="https://cafemaddycab.org/">
+  Cafe Maddy Cab
+</a>
+
+One of my proudest accomplishments as a software engineer was building a website for Cafe Maddy Cab, an initiative that pays for cab rides for the vulnerable Asian minority population in New York City. Between May and November 2022, our small team of volunteers raised a total of $106,880 and provided 4,134 safe rides for the AAPI community.
 
 </br>
 
